@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NKoech123 (Nicholas Koech)
+- 👋 Hi, I’m Nicholas Koech
 - 👀 I’m interested in backend web development
 - 🌱 I’m currently learning Django framework
 - 💞️ I’m looking to collaborate on anything that entails automation and web development. I am also open to any kind of projects.
