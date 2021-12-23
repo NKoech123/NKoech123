@@ -1,12 +1,43 @@
-- 👋 Hi, I’m Nicholas Koech
-- 👀 I’m interested in backend web development
-- 🌱 I’m currently learning Django framework
-- 💞️ I’m looking to collaborate on anything that entails automation and web development. I am also open to any kind of projects.
-- 📫 How to reach me: My email address is nicholask320@gmail.com
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nicholas Koech(He/Him)!](https://www.linkedin.com/in/nicholas-koech-74990010a/) 
+<!--
+**Nkoech123/Nkoech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!---
-NKoech123/NKoech123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkoech123)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<a href="https://www.linkedin.com/in/nicholas-koech-74990010a/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/Nichola12870777">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:mailtonicholask320@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+
+<a href="https://medium.com/@nicholaskipchumba">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br />
+
+### About Me 🚀
+🌱 I’m an aspiring software/data engineer with a BS. Civil Engineering(minor Data Science) from UC Berkeley. </br>
+👨‍💻  I enjoy writing software, working with data, talking to people and learning new things!! </br>
+
+
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=Nkoech123&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nkoech123&layout=compact&langs_count=8&hide_border=true)
+<br />
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nkoech123.Nkoech123)
