@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m an aspiring software/data engineer and a recent UC Berkeley graduate with
+🌱 I’m a software/data engineer and a recent UC Berkeley graduate with
    a BS. in  Civil Engineering(minor Data Science). </br>
 👨‍💻  I enjoy writing software, working with data, talking to people and learning new things!! </br>
 
