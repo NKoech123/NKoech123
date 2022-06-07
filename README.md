@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px">, I'm [Nicholas Koech(He/Him)!](https://www.linkedin.com/in/nicholas-koech-74990010a/) 
+## Hey, I'm [Nicholas Koech(He/Him)](https://www.linkedin.com/in/nicholas-koech-74990010a/) 
 <!--
 **Nkoech123/Nkoech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a software/data engineer and a recent UC Berkeley graduate with
-   a BS. in  Civil Engineering(minor Data Science). </br>
+🌱 I’m a software engineer and a UC Berkeley alum with a BS in Civil Engineering(minor in Data Science)
+  </br>
 👨‍💻  I enjoy writing software, working with data, talking to people and learning new things!! </br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nkoech123&show_icons=true&hide_border=true)&nbsp;&nbsp;
