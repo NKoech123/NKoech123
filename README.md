@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nkoech123.Nkoech123)
 -->
 
 
@@ -31,6 +32,4 @@ Here are some ideas to get you started:
 <br />
 
   
- 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nkoech123.Nkoech123)
