@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/nicholas-koech-74990010a/">
-  <img align="left" width="60px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
+  <img align="left"  width="60px" height="60px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
 </a>
 
+
 <a href="mailto:mailtonicholask320@gmail.com">
-  <img align="left" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="60px" height="70px"  src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />
 </a>
 
 <a href="https://medium.com/@nicholaskipchumba">
-    <img height="60" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+    <img height="60" src="https://raw.githubusercontent.com/Medium/medium-logos/master/01_Logo/03_Two_Color/02_White_Black/PNG/RGB/Medium-Logo-Two-Color-White-Black-RGB%404x.png"/>
 </a>
 
 <a href="https://twitter.com/Nichola12870777">
