@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nkoech123.Nkoech123)
 -->
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/nicholas-koech-74990010a/">
   <img align="left"  width="60px" height="60px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
