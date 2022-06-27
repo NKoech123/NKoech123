@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 <br />
 
-<a href="https://github.com/NKoech123">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKoech123&layout=compact" />
-</a>
+
   
 
