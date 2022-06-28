@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </a>
 
 -->
-### Connect with me:
+### Connect with me: 
 
 <a href="https://www.linkedin.com/in/nicholas-koech-74990010a/">
   <img align="left"  width="60px" height="60px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
@@ -30,10 +30,5 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/Nichola12870777">
   <img align="left" width="60px" src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Social%20media%20Icons/twitter.svg" />
-</a>
-
-
-
-
-  
+</a> 
 
