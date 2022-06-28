@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <a href="mailto:mailtonicholask320@gmail.com">
   <img align="left" width="60px" height=70px"  src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />
 </a>
+### Languages and Tools:
+
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+
 
 -->
 ### Connect with me: 
@@ -32,3 +36,29 @@ Here are some ideas to get you started:
   <img align="left" width="60px" src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Social%20media%20Icons/twitter.svg" />
 </a> 
 
+
+
+
+
+<br />
+<br />
+<br />
+
+### 📝 Latest Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+- [Lean Construction/ Lean Construction Delivery](https://medium.com/@nicholaskipchumba/lean-construction-lean-construction-delivery-a0b48a37b372)
+
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+
+
+<br />
+<br />
+
+
+
+<br />
+<br />
