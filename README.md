@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ### 📝 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect and Send Invalid Ethereum wallets to Google Sheets (using Python)](https://medium.com/@nicholaskipchumba/validate-eth-addresses-with-python-and-send-invalid-addresses-to-google-sheets-c9d098a7b8ff)
+- [How to Detect Invalid Ethereum wallets/address, then send them to Google Sheets (using Python)](https://medium.com/@nicholaskipchumba/validate-eth-addresses-with-python-and-send-invalid-addresses-to-google-sheets-c9d098a7b8ff)
 - [Lean Construction/ Lean Construction Delivery](https://medium.com/@nicholaskipchumba/lean-construction-lean-construction-delivery-a0b48a37b372)
 
 <!-- BLOG-POST-LIST:END -->
