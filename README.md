@@ -55,11 +55,10 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKoech123&&show_icons=true&title_color=#0000FF&icon_color=0000FF&text_color=0000FF&bg_color=0000FF"/> <br/>
 
 
-<br />
-<br />
+
+
 
 
 
