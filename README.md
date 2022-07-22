@@ -23,7 +23,18 @@ Here are some ideas to get you started:
 -->
 
 # Hey there 👋, I'm Nick!
-I enjoy problem-solving and building stuff
+I enjoy problem-solving and building stuff!
+I'm currently exploring and building on technologies listed below:
+
+<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=F97316&color=041e42"/>&nbsp;
+<img alt="Django" src="https://img.shields.io/badge/django-%23fca9ae.svg?style=for-the-badge&logo=django&logoColor=F97316&color=041e42"/>&nbsp;
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23fca9ae.svg?style=for-the-badge&logo=typescript&logoColor=F97316&color=041e42"/>&nbsp;
+<img alt="React" src="https://img.shields.io/badge/react-%23fca9ae.svg?style=for-the-badge&logo=react&logoColor=F97316&color=041e42"/>&nbsp;
+<img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23fca9ae.svg?style=for-the-badge&logo=graphql&logoColor=F97316&color=041e42"/>&nbsp;
+<img alt="Node.js" src="https://img.shields.io/badge/node.js-%23fca9ae.svg?style=for-the-badge&logo=node.js&logoColor=F97316&color=041e42"/>&nbsp; 
+<img alt="Jest" src="https://img.shields.io/badge/jest-%23fca9ae.svg?style=for-the-badge&logo=jest&logoColor=F97316&color=041e42"/>&nbsp; 
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23fca9ae.svg?style=for-the-badge&logo=figma&logoColor=F97316&color=041e42"/>&nbsp;
+
 
 ### Connect with me: 
 
@@ -62,15 +73,3 @@ I enjoy problem-solving and building stuff
 ### Languages and Tools:
 <a href="https://github.com/NKoech123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKoech123&langs_count=3&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=041e42&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 🛠️ Tech Stack
-
-I am currently using and exploring the following technologies
-
-<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=F97316&color=041e42"/>&nbsp;
-<img alt="Django" src="https://img.shields.io/badge/django-%23fca9ae.svg?style=for-the-badge&logo=django&logoColor=F97316&color=041e42"/>&nbsp;
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23fca9ae.svg?style=for-the-badge&logo=typescript&logoColor=F97316&color=041e42"/>&nbsp;
-<img alt="React" src="https://img.shields.io/badge/react-%23fca9ae.svg?style=for-the-badge&logo=react&logoColor=F97316&color=041e42"/>&nbsp;
-<img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23fca9ae.svg?style=for-the-badge&logo=graphql&logoColor=F97316&color=041e42"/>&nbsp;
-<img alt="Node.js" src="https://img.shields.io/badge/node.js-%23fca9ae.svg?style=for-the-badge&logo=node.js&logoColor=F97316&color=041e42"/>&nbsp; 
-<img alt="Jest" src="https://img.shields.io/badge/jest-%23fca9ae.svg?style=for-the-badge&logo=jest&logoColor=F97316&color=041e42"/>&nbsp; 
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23fca9ae.svg?style=for-the-badge&logo=typescript&logoColor=F97316&color=041e42"/>&nbsp;
