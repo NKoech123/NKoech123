@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://medium.com/@nicholaskipchumba">
-    <img align="left" height="60" src="https://raw.githubusercontent.com/Medium/medium-logos/master/01_Logo/03_Two_
-    /02_White_Black/PNG/RGB/Medium-Logo-Two-Color-White-Black-RGB%404x.png"/>
+    <img  align="left" height="60" src="https://github.com/NKoech123/NKoech123/blob/main/assets/medium.png"/>
 </a>
 
 <a href="https://twitter.com/Nichola12870777">
