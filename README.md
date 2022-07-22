@@ -29,20 +29,18 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://medium.com/@nicholaskipchumba">
-    <img align="left" height="60" src="https://raw.githubusercontent.com/Medium/medium-logos/master/01_Logo/03_Two_Color/02_White_Black/PNG/RGB/Medium-Logo-Two-Color-White-Black-RGB%404x.png"/>
+    <img align="left" height="60" src="https://raw.githubusercontent.com/Medium/medium-logos/master/01_Logo/03_Two_
+    /02_White_Black/PNG/RGB/Medium-Logo-Two-Color-White-Black-RGB%404x.png"/>
 </a>
 
 <a href="https://twitter.com/Nichola12870777">
   <img align="left" width="60px" src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Social%20media%20Icons/twitter.svg" />
 </a> 
 
-
-
-
-
 <br />
 <br />
 <br />
+
 
 
 
@@ -54,6 +52,11 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
+
+
+## 🖥 GitHub Stats
+
+<a href="https://github.com/NKoech123"><img src="https://github-readme-stats.vercel.app/api?username=NKoech&show_icons=true&hide=&count_private=true&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=041e42&hide_border=true&show_icons=true" alt="Nicholas Koech's GitHub stats" /></a>&nbsp;<a href="https://github.com/NKoech123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NKoech123&stroke=ffffff&background=041e42&ring=F97316&fire=F97316&currStreakNum=ffffff&currStreakLabel=F97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/NKoech123"><img src="https://activity-graph.herokuapp.com/graph?username=NKoech123&bg_color=041e42&color=ffffff&line=F97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/NKoech123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKoech123&langs_count=10&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=041e42&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
