@@ -61,7 +61,7 @@ I enjoy problem-solving and building stuff
 
 ## 🛠️ Tech Stack
 
-I am currently using and exploring the technologies below
+I am currently using and exploring the following technologies
 
 <img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=typescript&logoColor=F97316&color=041e42"/>&nbsp;
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23fca9ae.svg?style=for-the-badge&logo=javascript&logoColor=F97316&color=041e42"/>&nbsp;
