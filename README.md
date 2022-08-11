@@ -33,7 +33,7 @@ I'm currently exploring and building on technologies listed below:
 <img alt="Django" src="https://img.shields.io/badge/django-%23fca9ae.svg?style=for-the-badge&logo=django&logoColor=F97316&color=041e42"/>&nbsp;
 <img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23fca9ae.svg?style=for-the-badge&logo=graphql&logoColor=F97316&color=041e42"/>&nbsp;
 <img alt="Node.js" src="https://img.shields.io/badge/node.js-%23fca9ae.svg?style=for-the-badge&logo=node.js&logoColor=F97316&color=041e42"/>&nbsp; 
-<img alt="Jest" src="https://img.shields.io/badge/jest-%23fca9ae.svg?style=for-the-badge&logo=jest&logoColor=F97316&color=041e42"/>&nbsp; 
+<img alt="Cypress" src="https://img.shields.io/badge/cypress-%23fca9ae.svg?style=for-the-badge&logo=cypress&logoColor=F97316&color=041e42"/>&nbsp; 
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23fca9ae.svg?style=for-the-badge&logo=figma&logoColor=F97316&color=041e42"/>&nbsp;
 
 
