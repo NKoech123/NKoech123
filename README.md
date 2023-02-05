@@ -1,27 +1,4 @@
 
-<!--
-**Nkoech123/Nkoech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nkoech123.Nkoech123)
-<a href="mailto:mailtonicholask320@gmail.com">
-  <img align="left" width="60px" height=70px"  src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />
-</a>
-### Languages and Tools:
-<a href="https://github.com/NKoech123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKoech123&langs_count=10&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=041e42&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-##Github stats
-<a href="https://github.com/NKoech123"><img src="https://github-readme-stats.vercel.app/api?username=NKoech&show_icons=true&hide=&count_private=true&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=041e42&hide_border=true&show_icons=true" alt="Nicholas Koech's GitHub stats" /></a>&nbsp;
--->
 
 # Hey there 👋, I'm Nick!
 I enjoy problem-solving and building stuff!
