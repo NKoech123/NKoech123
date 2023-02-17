@@ -43,11 +43,11 @@ I'm currently exploring and building on technologies listed below:
 
 <br/>
 
-
+<!-- BLOG-POST-LIST:START 
 ## 🖥 GitHub Stats
 
-<a href="https://github.com/NKoech123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NKoech123&stroke=ffffff&background=041e42&ring=F97316&fire=F97316&currStreakNum=ffffff&currStreakLabel=F97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<a href="https://github.com/NKoech123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NKoech123&stroke=ffffff&background=041e42&ring=F97316&fire=F97316&currStreakNum=ffffff&currStreakLabel=F97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>](url)
+-->
 
 ### Languages and Tools:
 <a href="https://github.com/NKoech123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKoech123&langs_count=3&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=041e42&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
