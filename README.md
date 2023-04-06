@@ -1,7 +1,6 @@
 
 
 # Hey there 👋, I'm Nick!
-I enjoy problem-solving and building stuff!
 I'm currently exploring and building on technologies listed below:
 
 <img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=F97316&color=041e42"/>&nbsp;
